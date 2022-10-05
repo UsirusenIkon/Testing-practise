@@ -196,7 +196,7 @@
     "jest": "^29.1.2"
   },
   "scripts": {
-    "test": "Jest"
+    "test": "Jest --coverage"
   },
   "repository": {
     "type": "git",
